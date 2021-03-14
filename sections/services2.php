@@ -187,7 +187,7 @@
                           <h3 class="panel-title">Color Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Single Application Color = <strong>$85</strong></p>
+                          <p>Single Application Color = <strong>$95</strong></p>
                           <p>Partial Foil
                           <br> - 1 color only = <strong>$95</strong>
                           <br> - 2 colors (highlight over base) = <strong>$120</strong></p>
