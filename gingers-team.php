@@ -44,7 +44,6 @@
 				<div class="col-md-12">
 					<div class="team-heading">
 						<h2>Meet The Team</h2>
-<!-- 						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p> -->
 					</div>
 				</div>
 			</div>
@@ -52,39 +51,18 @@
   			<?php include('sections/team/ginger-moon.php')?>
 
 				<?php include('sections/team/natalie-bryant.php')?>
-				<!-- single-team start -->
-				<?php include('sections/team/tiffany-pogue.php')?>
-			</div>
-
-			<div class="row">
-
-				<!-- single-team end -->
-				<!-- single-team start -->
 				<?php include('sections/team/shelly-smith.php')?>
-				<!-- single-team end -->
-				<!-- single-team start -->
+			</div>
 
-				<!-- single-team end -->
-
+			<div class="row">
   			<?php include('sections/team/andrea-holt.php')?>
-				<!-- single-team start -->
 				<?php include('sections/team/regina-rumage.php')?>
+				<?php include('sections/team/tony-sims.php')?>
 			</div>
 			<div class="row">
-				<!-- single-team end -->
-				<!-- single-team start -->
-				<?php include('sections/team/tony-sims.php')?>
-				<!-- single-team end -->
-				<!-- single-team start -->
-
-				<!-- single-team end -->
-  			 <?php include('sections/team/tricia-walton.php')?>
-				<!-- single-team start -->
+  		  <?php include('sections/team/tricia-walton.php')?>
 				<?php include('sections/team/beverly-hood.php')?>
-
 				<?php include('sections/team/melissa-stuts.php')?>
-				<!-- single-team end -->
-				<!-- single-team end -->
 			</div>
 		</div>
 	</div>

@@ -18,7 +18,7 @@
 							<a data-toggle="modal" data-target=".women-modal"><img src="img/services2/squares_srvc1.png " alt="" /></a>
 						</div>
 						<div class="features-info">
-							<h2><a data-toggle="modal" data-target=".women-modal">Women Haircut & Style</a></h2>
+							<h2><a data-toggle="modal" data-target=".women-modal">Women's Haircut & Blowdry</a></h2>
 <!-- 							<p><a href="#">WC-AB-001</a></p> -->
 							<a data-toggle="modal" data-target=".women-modal"><h3><span>Click to View Details</span></h3></a>
 							<div class="fea-rating">
@@ -81,10 +81,11 @@
                     <div class="col-md-4">
                       <div class="panel panel-default panel-custom">
                         <div class="panel-heading-custom">
-                          <h3 class="panel-title">Women's Haircuts</h3>
+                          <h3 class="panel-title">Women's Haircuts & Blowdry</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Haircut's  (Shampoo and Blow Drying) = <strong>$35 +</strong></p>
+                          <p>Haircut's & Blowdry = starting at <strong>$35 +</strong></p>
+                          <p>(Shoulder length and longer, finishing with tools $10.00)</p>
                         </div>
                       </div>
                     </div>
@@ -133,10 +134,11 @@
                     <div class="col-md-4">
                       <div class="panel panel-default panel-custom">
                         <div class="panel-heading-custom">
-                          <h3 class="panel-title">Men's Haircuts</h3>
+                          <h3 class="panel-title">Men's Haircuts & Beard Detailing</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Haircut's = <strong>$20 +</strong>
+                          <p>Haircut's starting at = <strong>$25 +</strong>
+                          <p>Beard Detailing = <strong>$10</strong></p>
                         </div>
                       </div>
                     </div>
@@ -160,10 +162,6 @@
             </div>
           </div>
         </div>
-
-        <!-- -------------------------------------
-  				  MEN'S HAIRCUT MODAL ENDS DETAILS
-				----------------------------------------->
 
 
 
@@ -189,10 +187,16 @@
                           <h3 class="panel-title">Color Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Single Application Color = <strong>$80</strong></p>
-                          <p>Color/ 1 Foil = <strong>$95</strong></p>
-                          <p>Partials = <strong>$80</strong></p>
-                          <p>Full Foils = Starts at <strong>$105</strong></p>
+                          <p>Single Application Color = <strong>$85</strong></p>
+                          <p>Partial Foil
+                          <br> - 1 color only = <strong>$95</strong>
+                          <br> - 2 colors (highlight over base) = <strong>$120</strong></p>
+                          <p>Full Foils
+                            <br> - 1 color = <strong>$125</strong>
+                            <br> - 2 colors (highlight over base) = <strong>$135 (more than two colors $10 each)</strong>
+                          </p>
+                          <p>Balayage (Based on Consult, time, length, and condition of hair) = <strong>starting at $125</strong></p>
+                          <p>Perm = starting at <strong>$95</strong></p>
                         </div>
                       </div>
                     </div>
@@ -218,31 +222,9 @@
         </div>
 
         <!-- -------------------------------------
-  				          COLOR MODAL ENDS DETAILS
+  				          Massage DETAILS
 				----------------------------------------->
 
-<!--
-				<div class="col-sm-4 col-md-3 col-lg-3">
-					<div class="single-features wow fadeInRight" data-wow-duration="1.5s" data-wow-delay=".7s">
-						<div class="features-img">
-							<a href="#"><img src="img/features/squares_highlights.png" alt="" /></a>
-						</div>
-						<div class="features-info">
-							<h2><a href="#">Highlights</a></h2>
-							<h3><span>$56.60</span> each</h3>
-							<div class="fea-rating">
-  							<span>Customer Rating</span>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
--->
-				<!-- single-features end -->
 				<!-- single-features start -->
 				<div class="col-sm-4 col-md-3 col-lg-3 hidden-sm">
 					<div class="single-features wow fadeInRight" data-wow-duration="1.5s" data-wow-delay=".9s">
@@ -290,8 +272,9 @@
                           <h3 class="panel-title">Massage Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p><strong>$1 Per Minute</strong></p>
-                          <p>30 Minute Massage Minimum</p>
+                          <p>30 minutes = <strong>$35</strong></p>
+                          <p>60 minutes = <strong>$65</strong></p>
+                          <p>90 minutes = <strong>$95</strong></p>
                         </div>
                       </div>
                     </div>
@@ -302,7 +285,8 @@
                           <h3 class="panel-title">Package Purchase Price</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Packages Available inquire for Pricing</p>
+                          <p>Massage Packages
+                            <br> - 3 or more 60 minute sessions = <strong>$55 each</strong></p>
                         </div>
                       </div>
                     </div>
@@ -320,9 +304,10 @@
           </div>
         </div>
 
-        <!-- MASSAGE MODAL DETAILS END-->
 
-        <!-- Nails-features start -->
+        <!-- -------------------------------------
+  				          NAILS MODAL DETAILS
+				----------------------------------------->
 				<div class="col-sm-4 col-md-3 col-lg-3">
 					<div class="single-features wow fadeInRight" data-wow-duration="1.5s" data-wow-delay=".3s">
 						<div class="features-img">
@@ -330,7 +315,6 @@
 						</div>
 						<div class="features-info">
 							<h2><a data-toggle="modal" data-target=".nails-modal">Nails</a></h2>
-<!-- 							<p><a href="#">WC-AB-001</a></p> -->
 							<a data-toggle="modal" data-target=".nails-modal"><h3><span>Click to View Details</span></h3></a>
 							<div class="fea-rating">
   							<span>Customer Rating</span>
@@ -343,15 +327,7 @@
 						</div>
 					</div>
 				</div>
-				<!-- Nails-features end -->
 
-
-
-
-
-				<!-- -------------------------------------
-  				          NAILS MODAL DETAILS
-				----------------------------------------->
         <div class="modal fade nails-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" style="margin-top: 5%;">
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
@@ -400,30 +376,20 @@
           </div>
         </div>
 
+
+
         <!-- -------------------------------------
-  				          NAILS MODAL ENDS DETAILS
+  				          WAX MODAL DETAILS
 				----------------------------------------->
-
-
-
-
-
 
 
 				<div class="col-sm-4 col-md-3 col-lg-3 hidden-sm">
 					<div class="single-features wow fadeInRight" data-wow-duration="1.5s" data-wow-delay=".9s">
 						<div class="features-img">
 							<a data-toggle="modal" data-target=".wax-modal" ><img src="img/features/squares_srvcWAX.png" alt="" /></a>
-<!-- 							<span>NEW</span> -->
-<!--
-							<form action="#">
-								<input type="button" value="View Details"/>
-							</form>
--->
 						</div>
 						<div class="features-info">
 							<h2><a data-toggle="modal" data-target=".wax-modal">Waxing</h2>
-<!-- 							<p><a href="#">WC-BS-001</a></p> -->
 							<h3><span>Click to View Details</span></h3></a>
 							<div class="fea-rating">
   							<span>Customer Rating</span>
@@ -437,9 +403,7 @@
 					</div>
 				</div>
 
-				<!-- -------------------------------------
-  				          WAX MODAL DETAILS
-				----------------------------------------->
+
         <div class="modal fade wax-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" style="margin-top: 5%;">
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
@@ -480,27 +444,21 @@
           </div>
         </div>
 
+
+
+
+
         <!-- -------------------------------------
-  				          WAX MODAL ENDS DETAILS
+  				          Mens DETAILS
 				----------------------------------------->
-
-
-
 
 				<div class="col-sm-4 col-md-3 col-lg-3 hidden-sm">
 					<div class="single-features wow fadeInRight" data-wow-duration="1.5s" data-wow-delay=".9s">
 						<div class="features-img">
 							<a data-toggle="modal" data-target=".men-modal"><img src="img/features/squares_men.png" alt="" /></a>
-<!-- 							<span>NEW</span> -->
-<!--
-							<form action="#">
-								<input type="button" value="View Details"/>
-							</form>
--->
 						</div>
 						<div class="features-info">
 							<h2><a data-toggle="modal" data-target=".men-modal">Men's Haircut</a></h2>
-<!-- 							<p><a href="#">WC-BS-001</a></p> -->
 							<a data-toggle="modal" data-target=".men-modal"><h3><span>Click Here to View Details</span></h3></a>
 							<div class="fea-rating">
   							<span>Customer Rating</span>
@@ -514,6 +472,9 @@
 					</div>
 				</div>
 
+				<!-- -------------------------------------
+  				          SPECIALS DETAILS
+				----------------------------------------->
 
 				<div class="col-sm-4 col-md-3 col-lg-3 hidden-sm">
 					<div class="single-features wow fadeInRight" data-wow-duration="1.5s" data-wow-delay=".9s">
@@ -543,9 +504,6 @@
 				</div>
 
 
-				<!-- -------------------------------------
-  				          SPECIALS MODAL DETAILS
-				----------------------------------------->
         <div class="modal fade special-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" style="margin-top: 5%;">
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
@@ -564,18 +522,25 @@
                           <h3 class="panel-title">Special Services</h3>
                         </div>
                         <div class="panel-body">
-                          <p><strong>Bridal Session - </strong>50% Deposit Upon Consultation</p>
-                          <p><strong>Special Event Styling - </strong>Contact Salon</p>
+                          <p><strong>Bride - </strong> $85 and Up</p>
+                          <p><strong>Mother of Bride - </strong> $65 and Up</p>
+                          <p><strong>Bridesmaids - </strong> $65 and Up</p>
+                          <p><strong>Flower Girl - </strong> $30 and Up</p>
+                          <br>
+                          <p><strong>Special Event Styling - </strong>$65 and Up</p>
+<!--
                           <p><strong>Brazilian Blow Out</strong>
                             <ul style="list-style-type:circle; padding-left: 30px;">
                               <li>Straightening Treatment</li>
                               <li>Split-End Treatment</li>
                             </ul>
                           </p>
-                          <p><strong>Perm</strong></p>
-                          <p><strong>Extensions - </strong>Prices vary depending on consultation</p>
-                          <p><strong>Make Up</strong></p>
+-->
+                          <p><strong>Make Up - </strong> $75</p>
+                          <p><strong>Air Brush Make Up - </strong> $85</p>
+                          <p><strong>Strip Lashes - </strong> $15</p>
                           <p><strong>Salon Party - </strong>Contact Salon</p>
+                          <p><strong>Extensions - </strong>Prices vary depending on consultation</p>
                         </div>
                       </div>
                     </div>
@@ -588,7 +553,13 @@
               </div>
 
               <div class="modal-footer">
-                <img class="img-responsive" src="img/logo/logoMain.png" style="max-width: 200px">
+                <div class="col-md-4">
+                  <img class="img-responsive" src="img/logo/logoMain.png" style="max-width: 200px">
+                </div>
+                <div class="col-md-6 col-md-offset-1">
+                  <p><strong>Final Pricing based on consultations</strong></p>
+                  <p><strong>Appointments scheduled at time of deposit of 50% down</strong></p>
+                </div>
               </div>
 
             </div>
@@ -598,7 +569,74 @@
         <!-- -------------------------------------
   				      SPECIALS MODAL ENDS DETAILS
 				----------------------------------------->
+
+
+        <!-- 				HALOCOUTURE -->
+
+        <div class="col-sm-4 col-md-3 col-lg-3 hidden-sm">
+					<div class="single-features wow fadeInRight" data-wow-duration="1.5s" data-wow-delay=".9s">
+						<div class="features-img">
+							<a data-target=".halo-modal" data-toggle="modal"><img src="img/services2/halocoutore.jpg" alt="halocouture" /></a>
+							<span>NEW</span>
+<!--
+							<form>
+								<input type="button" value="View Details" href="http://halocouture.com/"/>
+							</form>
+-->
+						</div>
+						<div class="features-info">
+							<h2><a data-toggle="modal" data-target=".halo-modal">Halocouture</h2>
+<!-- 							<p><a href="#">WC-BS-001</a></p> -->
+							<h3><span>Click to View More</span></h3></a>
+							<div class="fea-rating">
+  							<span>Customer Rating</span>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+
 				<!-- single-features end -->
+
+<!--    Halo Modal Start -->
+				<div class="modal fade halo-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" style="margin-top: 5%;">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <!--MODAL_TITLE-->
+              <div class="modal-header" style="border-bottom: none;">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h1 class="modal-title" id="myModalLabel">Special Services</h1><hr style="border-top: 1px solid #2BCDC1"><h6>Ginger's Special</h6>
+              </div>
+              <!--MODAL_BODY-->
+              <div class="modal-body">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-10">
+                      <iframe width="80%" height="400" src="https://www.youtube.com/embed/_7hh-2SwMQQ" frameborder="0" allowfullscreen></iframe>
+                    </div>
+
+<!--
+                    <div class="col-md-5">
+                      <img class="img-responsive" src="img/features/squares_special.png" style="max-width: 300px;">
+                    </div>
+-->
+                  </div>
+                </div>
+              </div>
+
+              <div class="modal-footer">
+                <img class="img-responsive" src="img/logo/logoMain.png" style="max-width: 200px">
+              </div>
+
+            </div>
+          </div>
+        </div>
+<!--    Halo MODAL END -->
+
 			</div>
 		</div>
 	</div>

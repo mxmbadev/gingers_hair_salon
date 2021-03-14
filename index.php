@@ -1,20 +1,21 @@
 <!doctype html>
 <html class="no-js" lang="">
-  <head>
-	  <?php
-		  $pagetitle = "SalonGingers.com | Hair and Skin Care";
-		  include('sections/header-info.php')
-		?>
-  </head>
-  <body class="home-4">
+    <head>
+		  <?php
+  		  $pagetitle = "SalonGingers.com | Hair and Skin Care";
+  		  include('sections/header-info.php')
+  		?>
+    </head>
+    <body class="home-4">
 
 
-	<!-- header start -->
+
+
 	<?php include('sections/nav.php')?>
-	<!-- header end -->
-	<!-- HOME SLIDER -->
+
+
 	<?php include('sections/owl_carousel.php')?>
-	<!-- END HOME SLIDER -->
+
 	<!-- About-Us Area -->
 	<div id="about" style="padding: 120px 0px 50px 0px;">
     <div class="container">
