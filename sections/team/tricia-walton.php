@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-4 col-sm-4 team-2-border">
 	<div class="single-team">
-		<img src="img/team/tricia-walton-2021.jpg" alt="Tricia Walton" />
+		<img src="img/team/tricia-walton-2021.jpeg" alt="Tricia Walton" />
 		<div class="ab-team-details">
 			<span class="member-name">Tricia Walton</span>
 			<span class="member-role"><?=$nt?></span>
