@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-4 col-sm-4 team-2-border">
 	<div class="single-team">
-		<img src="img/team/andrea-holt.jpg" alt="Andrea Holt" />
+		<img src="img/team/andrea-holt-2021.jpeg" alt="Andrea Holt" />
 		<div class="ab-team-details">
 			<span class="member-name">Andrea Holt</span>
 			<span class="member-role"><?=$hs?></span>

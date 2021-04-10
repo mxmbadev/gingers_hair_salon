@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-4 col-sm-4 team-2-border">
 	<div class="single-team">
-		<img src="img/team/BeverlyHood.jpg" alt="Beverly Hood" />
+		<img src="img/team/beverly-hood-2021.jpeg" alt="Beverly Hood" />
 		<div class="ab-team-details">
 			<span class="member-name">Beverly Hood</span>
 			<span class="member-role">Massage Therapist</span>

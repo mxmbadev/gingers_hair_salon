@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-4 col-sm-4 team-2-border">
 	<div class="single-team">
-		<img src="img/team/ginger-moon.jpg" alt="Ginger Moon" />
+		<img src="img/team/ginger-bryant-2021.jpg" alt="Ginger Moon" />
 		<div class="ab-team-details">
 			<span class="member-name">Ginger Moon</span>
 			<span class="member-role">Owner <?=$hs?></span>

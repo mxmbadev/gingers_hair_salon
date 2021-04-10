@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-4 col-sm-4 team-2-border">
 	<div class="single-team">
-		<img src="img/team/nataly-bryant.jpg" alt="Tiffany Pogue" />
+		<img src="img/team/natalie-quintana.jpeg" alt="Natalie Quintana" />
 		<div class="ab-team-details">
 			<span class="member-name">Natalie Bryant Quintana</span>
 			<span class="member-role"><?=$hs?></span>

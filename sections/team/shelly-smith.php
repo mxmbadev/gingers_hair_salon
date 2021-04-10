@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-4 col-sm-4 team-2-border">
 	<div class="single-team">
-		<img src="img/team/shelly-smith.jpg" alt="Shelly Smith" />
+		<img src="img/team/shelly-smith-2021.jpeg" alt="Shelly Smith" />
 		<div class="ab-team-details">
 			<span class="member-name">Shelly Smith</span>
 			<span class="member-role"><?=$hs?></span>
