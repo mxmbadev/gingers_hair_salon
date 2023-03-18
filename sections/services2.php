@@ -84,7 +84,7 @@
                           <h3 class="panel-title">Women's Haircuts & Blowdry</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Haircut's & Blowdry = starting at <strong>$35 +</strong></p>
+                          <p>Haircut's & Blowdry = starting at <strong>$40 - $60</strong></p>
                           <p>(Shoulder length and longer, finishing with tools $10.00)</p>
                         </div>
                       </div>
@@ -187,16 +187,23 @@
                           <h3 class="panel-title">Color Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Single Application Color = <strong>$95</strong></p>
-                          <p>Partial Foil
-                          <br> - 1 color only = <strong>$95</strong>
-                          <br> - 2 colors (highlight over base) = <strong>$120</strong></p>
-                          <p>Full Foils
-                            <br> - 1 color = <strong>$125</strong>
-                            <br> - 2 colors (highlight over base) = <strong>$135 (more than two colors $10 each)</strong>
+                          <p>Single Process Color = <strong>$100 - $125</strong>
+                          <br> - add aditional colors = <strong>$15 per color</strong>
+                          <br> - add cut = <strong>$20 extra</strong>
                           </p>
-                          <p>Balayage (Based on Consult, time, length, and condition of hair) = <strong>starting at $125</strong></p>
-                          <p>Perm = starting at <strong>$95</strong></p>
+                          
+                          <p>Foils
+                          <br> - Full Foil <strong>$125 - $145</strong>
+                          <br> - Foil over color = <strong>$140 - $165</strong></p>
+
+                          <p>Balayage (Based on Consultation) = <strong> $135 - $200</strong></p>
+                          <p>Virgin Bleached (Based on Consultation) = starting at <strong> $150+</strong>
+                          <br> - add Toner = <strong>$25 each toner application</strong>
+                          </p>
+
+                          <p>Perm = <strong>$105</strong>
+                          <br> - add cut = <strong> $20</strong>
+                          </p>
                         </div>
                       </div>
                     </div>
@@ -422,9 +429,10 @@
                           <h3 class="panel-title">Wax Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Eyebrows = Starting at <strong>$12</strong></p>
-                          <p>Lips = Starting at <strong>$12</strong></p>
+                          <p>Eyebrows = Starting at <strong>$15</strong></p>
+                          <p>Lips = Starting at <strong>$15</strong></p>
                           <p>Chin = Starting at <strong>$12</strong></p>
+                          <p>Face = <strong>$40</strong></p>
                         </div>
                       </div>
                     </div>
