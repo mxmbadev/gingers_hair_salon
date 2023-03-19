@@ -84,7 +84,7 @@
                           <h3 class="panel-title">Women's Haircuts & Blowdry</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Haircut's & Blowdry = starting at <strong>$40 - $60</strong></p>
+                          <p>Haircut's & Blowdry = starting at <strong>$40</strong></p>
                           <p>(Shoulder length and longer, finishing with tools $10.00)</p>
                         </div>
                       </div>
@@ -137,8 +137,8 @@
                           <h3 class="panel-title">Men's Haircuts & Beard Detailing</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Haircut's starting at = <strong>$25 +</strong>
-                          <p>Beard Detailing = <strong>$10</strong></p>
+                          <p>Haircut's starting at = <strong>$35</strong>
+                          <p>Beard Detailing = <strong>$15</strong></p>
                         </div>
                       </div>
                     </div>
@@ -187,22 +187,23 @@
                           <h3 class="panel-title">Color Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Single Process Color = <strong>$100 - $125</strong>
+                          <p>Single Process Color = <strong>$105+</strong>
                           <br> - add aditional colors = <strong>$15 per color</strong>
                           <br> - add cut = <strong>$20 extra</strong>
                           </p>
                           
                           <p>Foils
-                          <br> - Full Foil <strong>$125 - $145</strong>
+                          <br> - Full Foil = <strong>$135 - each additional color $30</strong>
+                          <br> - Partial Foil = <strong>$115 - each additional color $30</strong>
                           <br> - Foil over color = <strong>$140 - $165</strong></p>
 
-                          <p>Balayage (Based on Consultation) = <strong> $135 - $200</strong></p>
+                          <p>Balayage, Ombré or any speciality design techniques = <strong> starting at $145 (Based on Consultation)</strong></p>
                           <p>Virgin Bleached (Based on Consultation) = starting at <strong> $150+</strong>
                           <br> - add Toner = <strong>$25 each toner application</strong>
                           </p>
 
-                          <p>Perm = <strong>$105</strong>
-                          <br> - add cut = <strong> $20</strong>
+                          <!-- <p>Perm = <strong>$105</strong>
+                          <br> - add cut = <strong> $20</strong> -->
                           </p>
                         </div>
                       </div>
