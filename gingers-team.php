@@ -48,19 +48,17 @@
 				</div>
 			</div>
 			<div class="row">
-  			<?php include('sections/team/ginger-moon.php')?>
-
-				<?php include('sections/team/natalie-bryant.php')?>
+				<?php include('sections/team/ginger-moon.php')?>
 				<?php include('sections/team/shelly-smith.php')?>
+				<?php include('sections/team/andrea-holt.php')?>
 			</div>
 
 			<div class="row">
-  			<?php include('sections/team/andrea-holt.php')?>
 				<?php include('sections/team/tony-sims.php')?>
 				<?php include('sections/team/tricia-walton.php')?>
+				<?php include('sections/team/beverly-hood.php')?>
 			</div>
 			<div class="row">
-				<?php include('sections/team/beverly-hood.php')?>
 				<?php include('sections/team/melissa-stuts.php')?>
 			</div>
 		</div>
