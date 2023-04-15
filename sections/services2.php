@@ -354,16 +354,16 @@
                           <h3 class="panel-title">Nails Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Shellac Polish = <strong>$35</strong></p>
-                          <p>Shellac with Manicure = <strong>$50</strong></p>
-                          <p>Shellac Pedicure = <strong>$65</strong></p>
+                          <p>Shellac Gell Polish = <strong>$35</strong></p>
+                          <p>Shellac Gell Manicure = <strong>$40</strong></p>
+                          <p>Shellac Gell Pedicure = <strong>$65</strong></p>
                           <p>Shellac Remove (permanent) = <strong>$15</strong></p>
                           <br>
-                          <p>Manicure = <strong>$25</strong></p>
-                          <p>Pedicure = <strong>$50</strong></p>
+                          <p>Basic Manicure = <strong>$30</strong></p>
+                          <p>Basic Pedicure = <strong>$55</strong></p>
                           <p>Polish = <strong>$10</strong></p>
                           <p>Parrafin = <strong>$10</strong></p>
-                          <p>Acrylic Nails = <strong>$60</strong></p>
+                          <p>Acrylic Nails = <strong>$65</strong></p>
                           <p>Fills = <strong>$35</strong></p>
                         </div>
                       </div>
@@ -430,10 +430,10 @@
                           <h3 class="panel-title">Wax Rates</h3>
                         </div>
                         <div class="panel-body">
-                          <p>Eyebrows = Starting at <strong>$15</strong></p>
-                          <p>Lips = Starting at <strong>$15</strong></p>
-                          <p>Chin = Starting at <strong>$12</strong></p>
-                          <p>Face = <strong>$40</strong></p>
+                          <p>Eyebrows = <strong>$15</strong></p>
+                          <p>Lips = <strong>$15</strong></p>
+                          <p>Chin = <strong>$15</strong></p>
+                          <p>Full Face = <strong>$50</strong></p>
                         </div>
                       </div>
                     </div>
@@ -531,25 +531,18 @@
                           <h3 class="panel-title">Special Services</h3>
                         </div>
                         <div class="panel-body">
-                          <p><strong>Bride - </strong> $85 and Up</p>
-                          <p><strong>Mother of Bride - </strong> $65 and Up</p>
-                          <p><strong>Bridesmaids - </strong> $65 and Up</p>
-                          <p><strong>Flower Girl - </strong> $30 and Up</p>
-                          <br>
-                          <p><strong>Special Event Styling - </strong>$65 and Up</p>
-<!--
-                          <p><strong>Brazilian Blow Out</strong>
-                            <ul style="list-style-type:circle; padding-left: 30px;">
-                              <li>Straightening Treatment</li>
-                              <li>Split-End Treatment</li>
-                            </ul>
-                          </p>
--->
+                          <h4>Wedding Services</h4>
+                          <p><strong>Bride - </strong> $95</p>
+                          <p><strong>Mother of Bride - </strong> $85</p>
+                          <p><strong>Bridesmaids - </strong> $85</p>
+                          <p><strong>Flower Girl - </strong> $50</p>
+                          <hr>
+                          <p><strong>Special Event Styling - </strong>$75</p>
                           <p><strong>Make Up - </strong> $75</p>
                           <p><strong>Air Brush Make Up - </strong> $85</p>
-                          <p><strong>Strip Lashes - </strong> $15</p>
+                          <p><strong>Strip Lashes Application - </strong> $20</p>
                           <p><strong>Salon Party - </strong>Contact Salon</p>
-                          <p><strong>Extensions - </strong>Prices vary depending on consultation</p>
+                          <p><strong>Extensions - </strong>Prices vary depending on consultation. Contact Salon to schedule consult appointment.</p>
                         </div>
                       </div>
                     </div>
@@ -567,7 +560,7 @@
                 </div>
                 <div class="col-md-6 col-md-offset-1">
                   <p><strong>Final Pricing based on consultations</strong></p>
-                  <p><strong>Appointments scheduled at time of deposit of 50% down</strong></p>
+                  <p><strong>50% deposit to hold appointments and balance due upon service.</strong></p>
                 </div>
               </div>
 
